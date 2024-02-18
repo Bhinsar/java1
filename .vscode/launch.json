@@ -1,0 +1,322 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FurthestBuildingYouCanReach",
+            "request": "launch",
+            "mainClass": "FurthestBuildingYouCanReach",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "LeastNumberUniqueIntegers",
+            "request": "launch",
+            "mainClass": "LeastNumberUniqueIntegers",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "PolygonLargestPerimeter",
+            "request": "launch",
+            "mainClass": "PolygonLargestPerimeter",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "ArrayElementsSign",
+            "request": "launch",
+            "mainClass": "ArrayElementsSign",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "PalindromicStringArray",
+            "request": "launch",
+            "mainClass": "PalindromicStringArray",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "MajorityElement",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "PalindromicSubstrings",
+            "request": "launch",
+            "mainClass": "PalindromicSubstrings",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "LargestDivisibleSubset",
+            "request": "launch",
+            "mainClass": "LargestDivisibleSubset",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "PerfectSquares",
+            "request": "launch",
+            "mainClass": "PerfectSquares",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "SortCharactersByFrequency",
+            "request": "launch",
+            "mainClass": "SortCharactersByFrequency",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "GroupAnagrams",
+            "request": "launch",
+            "mainClass": "GroupAnagrams",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "FirstUniqueCharacterString",
+            "request": "launch",
+            "mainClass": "FirstUniqueCharacterString",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "MinimumWindowSubstring",
+            "request": "launch",
+            "mainClass": "MinimumWindowSubstring",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "SequentialDigits",
+            "request": "launch",
+            "mainClass": "SequentialDigits",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "PlusOne",
+            "request": "launch",
+            "mainClass": "PlusOne",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "MedianOfTwoSortedArrays",
+            "request": "launch",
+            "mainClass": "MedianOfTwoSortedArrays",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "DivideArrayIntoArraysWithMaxDifference",
+            "request": "launch",
+            "mainClass": "DivideArrayIntoArraysWithMaxDifference",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "DailyTemperature",
+            "request": "launch",
+            "mainClass": "DailyTemperature",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "LongestPalindromic",
+            "request": "launch",
+            "mainClass": "LongestPalindromic",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubstring",
+            "request": "launch",
+            "mainClass": "LongestSubstring",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "AddList",
+            "request": "launch",
+            "mainClass": "AddList",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "MergeList",
+            "request": "launch",
+            "mainClass": "MergeList",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "List",
+            "request": "launch",
+            "mainClass": "List",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "FirstOccurrence",
+            "request": "launch",
+            "mainClass": "FirstOccurrence",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "FirstQccurrence",
+            "request": "launch",
+            "mainClass": "FirstQccurrence",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "Element",
+            "request": "launch",
+            "mainClass": "Element",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "RemoveElement",
+            "request": "launch",
+            "mainClass": "RemoveElement",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "Position",
+            "request": "launch",
+            "mainClass": "Position",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "InsertPosition",
+            "request": "launch",
+            "mainClass": "InsertPosition",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "Pattern5",
+            "request": "launch",
+            "mainClass": "Pattern5",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "Pattern4",
+            "request": "launch",
+            "mainClass": "Pattern4",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "Pattern3",
+            "request": "launch",
+            "mainClass": "Pattern3",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "Patten2",
+            "request": "launch",
+            "mainClass": "Patten2",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "Patten1",
+            "request": "launch",
+            "mainClass": "Patten1",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "Casting",
+            "request": "launch",
+            "mainClass": "Casting",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Food",
+            "request": "launch",
+            "mainClass": "Food",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "GUI",
+            "request": "launch",
+            "mainClass": "GUI",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "StringMethod",
+            "request": "launch",
+            "mainClass": "StringMethod",
+            "projectName": "java1_ea30b776"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java1_ea30b776"
+        }
+    ]
+}
